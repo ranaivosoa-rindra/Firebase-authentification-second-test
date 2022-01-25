@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/loginFavicon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.no_name323.FirebaseAuthSecond"
     },
     "web": {
       "favicon": "./assets/favicon.png"

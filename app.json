@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "FirebaseAuthSecond",
+    "name": "Firebase Authentification Second",
     "slug": "FirebaseAuthSecond",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/loginIcon.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/splash-screen.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#588DDE"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,7 +21,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/loginFavicon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
